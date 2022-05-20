@@ -12,4 +12,4 @@ Implementing Recurrent Neural Networks, particular LSTMs, to perform sentiment a
 * Build the Model
 * Train the Model
 * Predict the output
-* You can give custom input 
+* We can give custom input 
