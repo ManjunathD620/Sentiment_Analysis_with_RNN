@@ -1,5 +1,5 @@
 # Sentiment Analysis with RNN
-Implementing Recurrent Neural Networks, particular LSTMs, to perform sentiment analysis in Keras.Sentiment analysis probably is one the most common applications in Natural Language processing. No need to emphasize how important customer service tool sentiment analysis has become. So we will train a classifier on IMDB Dataset of 50K Movie Reviews, using Recurrent Neural Networks.
+Implementing Recurrent Neural Networks, particular LSTMs, to perform sentiment analysis in Keras.Sentiment analysis probably is one the most common applications in Natural Language processing. No need to emphasize how important customer service tool, sentiment analysis has become.Train a classifier on IMDB Dataset of 50K Movie Reviews, using Recurrent Neural Networks.
 
 # Dataset
 * We are using IMDB Dataset to train our model.<br>
@@ -11,5 +11,5 @@ Implementing Recurrent Neural Networks, particular LSTMs, to perform sentiment a
 * Lemmatization
 * Build the Model
 * Train the Model
-* Predict the output
-* We can give custom input 
+* Predict the output / Test the Model
+* Predict the output for custom input 
